@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment variables
+.env
+
+# Google Drive credentials
+credentials.json
+
+# Firebase credentials
+firebase-service-account.json
+
+# Uploads
+uploads/
+*.tmp
+
+# Local storage (keep structure but ignore files)
+# Uncomment the line below if you want to ignore all uploads
+# uploads/**/*
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
